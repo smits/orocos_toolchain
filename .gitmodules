@@ -6,7 +6,7 @@
 	url = git@github.com:jhu-lcsr-forks/ocl.git
 [submodule "orogen"]
 	path = orogen
-	url = git@github.com:orocos-toolchain/orogen.git
+	url = git@github.com:jhu-lcsr-forks/orogen.git
 [submodule "typelib"]
 	path = typelib
 	url = git@github.com:orocos-toolchain/typelib.git
