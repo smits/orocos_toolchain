@@ -1,9 +1,9 @@
 [submodule "rtt"]
 	path = rtt
-	url = git@github.com:jhu-lcsr-forks/rtt.git
+	url = ../rtt.git
 [submodule "ocl"]
 	path = ocl
-	url = git@github.com:jhu-lcsr-forks/ocl.git
+	url = ../ocl.git
 [submodule "orogen"]
 	path = orogen
 	url = git@github.com:jhu-lcsr-forks/orogen.git
